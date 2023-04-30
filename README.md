@@ -1,7 +1,6 @@
 # 💫 About Me:
 Hello, I am Rimu 
-
-🔭 I’m currently working on: the Prediction system for student drop out.<br>🌱 I’m currently learning: Machine Learning, Tableau, and Data Analysis<br>💬 Ask me about Python, SQL, PowerBI<br><br>📫 How to reach me rimspatil07@gmail.com<br>
+🌱 I’m currently learning: Machine Learning, Tableau, and Data Analysis<br>💬 Ask me about Python, SQL, PowerBI<br><br>📫 How to reach me rimspatil07@gmail.com<br>
 
 
 ## 🌐 Socials:
